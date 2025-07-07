@@ -37,13 +37,13 @@
 
 ### Тестовые артефакты
 
-[Теория тестирования](https://github.com/BorisovaKV/Theory) — анализ приложения на основе его описания
-[Тест-дизайн](https://github.com/BorisovaKV/Design) - эквивалентное разбиение и анализ граничных значений, попарное тестирование, таблица принятия решений
-[Тестирование веб-приложений](https://github.com/BorisovaKV/Web) — через Qase, YouTrack, перехват и изменение трафика через Charles Proxy и Proxyman
-[Тестирование API](https://github.com/BorisovaKV/Api) — REST и SOAP через Postman
-[Работа с базами данных](https://github.com/BorisovaKV/Database) — MySQL через DBeaver (Select, JOIN-запросы); MongoDB
-[Тестирование мобильных приложений](https://github.com/BorisovaKV/Mobile) — создание документации, тестирование с помощью Android Studio через Qase, YouTrack, перехват и изменение трафика через Charles Proxy и Proxyman
-[Bash](https://github.com/BorisovaKV/Git_bash) — команды bash через нативный терминал на macOS
+- [Теория тестирования](https://github.com/BorisovaKV/Theory) — анализ приложения на основе его описания  
+- [Тест-дизайн](https://github.com/BorisovaKV/Design) — эквивалентное разбиение и анализ граничных значений, попарное тестирование, таблица принятия решений  
+- [Тестирование веб-приложений](https://github.com/BorisovaKV/Web) — через Qase, YouTrack, перехват и изменение трафика через Charles Proxy и Proxyman  
+- [Тестирование API](https://github.com/BorisovaKV/Api) — REST и SOAP через Postman  
+- [Работа с базами данных](https://github.com/BorisovaKV/Database) — MySQL через DBeaver (Select, JOIN-запросы); MongoDB  
+- [Тестирование мобильных приложений](https://github.com/BorisovaKV/Mobile) — создание документации, тестирование с помощью Android Studio через Qase, YouTrack, перехват и изменение трафика через Charles Proxy и Proxyman  
+- [Bash](https://github.com/BorisovaKV/Git_bash) — команды bash через нативный терминал на macOS
 
 
 ---
