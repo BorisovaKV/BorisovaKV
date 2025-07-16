@@ -8,6 +8,9 @@
 
 - ✉️ Мои контакты для связи: [![Telegram Badge](https://img.shields.io/badge/-@ksenia_bvad-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ksenia_bvad) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:bkv.vad@gmail.com)
 
+## 📄 Мое резюме
+
+Для ознакомления с моим профессиональным опытом вы можете посмотреть [резюме](https://drive.google.com/file/d/1uAuIc9KIb0jsXfDDO98j7OUIDlJNA-mh/view?usp=sharing)
 
 ---
 
